@@ -24,7 +24,7 @@ ul {
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1300px;
   margin: 0 auto;
   padding: 0 30px;
 }
@@ -67,4 +67,30 @@ ul {
 
 .navbar ul li {
   margin-left:  55px;
+}
+
+.header {
+  background: #1F2937;
+  font-size: 18px;
+  color: #E4E7EB;
+  min-height: 300px;
+}
+
+.header h1 {
+  font-size: 48px;
+  color: #F9FAF8;
+  font-weight: bolder;
+  line-height: 1.2;
+}
+
+.header img {
+  max-width: 300px;
+  max-height: 200px;
+  border-radius: 15px;
+}
+
+.header .container {
+  display: flex;
+   align-items: center;
+  justify-content: space-between;
 }
