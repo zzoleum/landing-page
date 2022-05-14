@@ -125,7 +125,7 @@ color: black;
   
   font-size: 36px;
   color: #1F2937;
-  background: greenyellow;
+  background: rgb(232, 243, 214);
 }
 
 .boxes .container {
@@ -152,6 +152,9 @@ color: black;
   text-align: center;
   display: block;
   max-width: 200px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: 600;
   
 }
 
@@ -166,6 +169,7 @@ color: black;
 .quote p {
   font-size: 36px;
   color: #1F2937;
+  
 
 }
 
@@ -176,3 +180,66 @@ color: black;
   font-weight: bold;
   font-size: 18px;
 }
+
+.subscribe {
+  background: rgb(242, 182, 242);
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  min-height: 220px;
+  padding: 2.4em;
+}
+
+.contact-us {
+  background: #3882f6;
+  padding: 2.3em;
+  width: 700px;
+  display: flex;
+  flex-direction: row;
+  color: #E4E7EB;
+  justify-content: space-between;
+  border-radius: 15px;
+  flex-wrap: wrap;
+  
+  
+}
+
+.subscribe .contact-us button {
+  display: block;
+    text-align: center;
+    width: 110px;
+    border: none;
+    background: rgb(236, 114, 27);
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    font-size: 19px;
+    font-weight: bold;
+    margin-top: 30px;
+    max-height: 40px;
+}
+
+.subscribe .contact-us button:hover {
+color: black;
+} 
+ 
+.contact-us p {
+  max-width: 200px;
+}
+
+.contact-us h3 {
+  color: white;
+  font-size: 25px;
+  margin-bottom: 8px;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  background: #1F2937;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: wheat
+}
+
