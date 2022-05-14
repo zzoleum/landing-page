@@ -84,9 +84,10 @@ ul {
 }
 
 .header img {
-  max-width: 300px;
-  max-height: 200px;
+  max-width: 400px;
+  max-height: 300px;
   border-radius: 15px;
+  margin-left: 40px;
 }
 
 .header .container {
@@ -95,22 +96,61 @@ ul {
   justify-content: space-between;
 }
 
+.header .container button {
+  display: block;
+    text-align: center;
+    width: 110px;
+    border: none;
+    background: #3882f6;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.header .container button:hover {
+color: black;
+} 
+
+.header .container p {
+  display: block;
+  text-align: left;
+  max-width: 600px;
+}
+
 .boxes h2 {
   text-align: center;
-  margin:125px 15px;
+  margin: auto;
+  
   font-size: 36px;
   color: #1F2937;
+  background: greenyellow;
 }
 
 .boxes .container {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
+  min-height: 300px;
+  max-width: 1700px;
+  background: pink;
+ 
   
 }
 
 .box img {
   flex: 1;
-  border-radius: 15px;
+  border-radius: 20px;
   max-width: 200px;
-  max-height: 300px;
+  max-height: 350px;
+  padding: 10px;
+  margin-top: 15px;
+}
+
+.text {
+  text-align: center;
+  display: block;
+  max-width: 200px;
+  
 }
