@@ -94,3 +94,23 @@ ul {
    align-items: center;
   justify-content: space-between;
 }
+
+.boxes h2 {
+  text-align: center;
+  margin:125px 15px;
+  font-size: 36px;
+  color: #1F2937;
+}
+
+.boxes .container {
+  display: flex;
+  justify-content: space-between;
+  
+}
+
+.box img {
+  flex: 1;
+  border-radius: 15px;
+  max-width: 200px;
+  max-height: 300px;
+}

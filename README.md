@@ -10,3 +10,5 @@ Photo by nishizuka: https://www.pexels.com/photo/chihuahua-lying-on-white-textil
 Photo by Luke Seago: https://www.pexels.com/photo/a-cute-chihuahua-with-fur-10310363/
 
 Photo by Tasha_WhiteGold: https://www.pexels.com/photo/photograph-of-a-white-chihuahua-8570631/
+
+Photo by Danil Lysov: https://www.pexels.com/photo/chihuahua-sitting-on-persons-lap-11959703/
