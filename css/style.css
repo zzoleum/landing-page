@@ -154,3 +154,25 @@ color: black;
   max-width: 200px;
   
 }
+
+.quote {
+  background: #E5E7EB;
+  display: flex;
+  padding: 60px 220px;
+  flex-direction: column;
+  
+}
+
+.quote p {
+  font-size: 36px;
+  color: #1F2937;
+
+}
+
+.quote b {
+  text-align: right;
+  margin-top: 20px;
+  margin-right: 40px;
+  font-weight: bold;
+  font-size: 18px;
+}
